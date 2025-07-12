@@ -21,5 +21,7 @@ PRs happily accepted, bring me all of your awesome uses for Generative AI!
 
 ## Learning
 
-## Music
+## Music Creation
+
+## Music Discovery
 
