@@ -35,3 +35,5 @@ PRs happily accepted, bring me all of your awesome uses for Generative AI!
 
 ## Medicine
 
+## Sports
+
