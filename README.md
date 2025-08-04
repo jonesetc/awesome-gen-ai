@@ -59,3 +59,5 @@ PRs happily accepted, bring me all of your awesome uses for Generative AI!
 
 ## Self Driving
 
+## Manufacturing
+
