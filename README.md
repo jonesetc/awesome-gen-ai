@@ -61,3 +61,5 @@ PRs happily accepted, bring me all of your awesome uses for Generative AI!
 
 ## Manufacturing
 
+## Memes (All work and no play!)
+
